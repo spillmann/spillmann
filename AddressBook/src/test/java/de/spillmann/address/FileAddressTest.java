@@ -23,7 +23,6 @@ import de.spillmann.address.exception.InvalidAddressException;
  * @version 1.0
  */
 public class FileAddressTest {
-
 	
 	private	AddressBookEntry entry1;
 	private	AddressBookEntry entry2;

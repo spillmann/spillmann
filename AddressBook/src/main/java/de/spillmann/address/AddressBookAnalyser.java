@@ -47,6 +47,10 @@ public class AddressBookAnalyser {
 		 */
 		
 		
+		/**
+		 * das ist ein test
+		 */
+		
 		analyser.analyse();	
 	}
 
