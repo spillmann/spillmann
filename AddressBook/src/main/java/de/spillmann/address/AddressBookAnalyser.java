@@ -37,20 +37,9 @@ public class AddressBookAnalyser {
 	public static void main(String[] args) throws IOException {
 	
 		AddressBookAnalyser analyser = new AddressBookAnalyser();
-	
 		/**
-		 * das ist ein Test
+		 * Master Test
 		 */
-		
-		/**
-		 * und noch einer !!!
-		 */
-		
-		
-		/**
-		 * das ist ein test
-		 */
-		
 		analyser.analyse();	
 	}
 
