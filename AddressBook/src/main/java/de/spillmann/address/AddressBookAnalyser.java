@@ -38,7 +38,9 @@ public class AddressBookAnalyser {
 	
 		AddressBookAnalyser analyser = new AddressBookAnalyser();
 	
-		
+		/**
+		 * das ist ein Test
+		 */
 		
 		
 		analyser.analyse();	
