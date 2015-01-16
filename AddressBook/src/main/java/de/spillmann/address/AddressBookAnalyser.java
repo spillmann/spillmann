@@ -37,6 +37,8 @@ public class AddressBookAnalyser {
 	public static void main(String[] args) throws IOException {
 	
 		AddressBookAnalyser analyser = new AddressBookAnalyser();
+	
+		
 		analyser.analyse();	
 	}
 
